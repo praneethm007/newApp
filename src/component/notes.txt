@@ -1,0 +1,21 @@
+import { useContext, useEffect } from "react"
+
+useState
+useEffect
+
+const [name,setName] = useState("defaultvalue")
+
+useEffect(()=>{
+
+    run this block of code
+
+},[name])
+
+useContext
+
+
+1. install the route pakage  npm install react-router-dom
+2.create a new file name it as Routes and addthe the routes to that file.
+3. add BrowserRoute to index.js file and pass Routes Component inside it
+4.create two components and add button in that two components 
+5. navigate btw the two components
